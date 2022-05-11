@@ -2,7 +2,7 @@
 ### My name is Pedro Antunes, I have 35 years old, I live in Paranavai/PR - Brazil, I'm a beginner in the world of programming and I study at Ingate-Educa!
 
 ## 👋 Olá! Bem vindos ao meu perfil do Github.
-### Meu nome é Pedro Antunes, Eu tenho 35 anos, moro em Paranavai/PR - Brasil, Sou iniciante no munda da programação e estudo na Ingate-Educa!
+### Meu nome é Pedro Antunes, Eu tenho 35 anos, moro em Paranavai/PR - Brasil, Sou iniciante no mundo da programação e estudo na Ingate-Educa!
 
 
 ## 🖥️ Technologies/Tecnologias:
